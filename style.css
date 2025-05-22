@@ -1,7 +1,6 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    color: crimson;
 }
 
 body{
@@ -12,10 +11,5 @@ main {
     background-color: aliceblue;
     width: 500px;
     margin: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.527);
-}
-
-article {
-    background-color: aqua;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.527);
 }
